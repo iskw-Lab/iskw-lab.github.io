@@ -6,8 +6,8 @@ title: '認知症ケアにおけるマルチモーダル LLM を活用したデ�
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - atsushi-omata
-  - 香山壮太
-  - 菅家穣
+  - 香山 壮太
+  - 菅家 穣
   - Admin
 
 # Author notes (optional)

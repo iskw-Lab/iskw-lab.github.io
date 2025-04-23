@@ -6,7 +6,7 @@ title: 'Exploring Data-Driven Care Coaching Generation Using Multimodal Large La
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - atsushi-omata
-  - Sota Koyama
+  - Sota Kayama
   - Yutaka Kanke
   - Admin
 

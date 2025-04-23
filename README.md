@@ -28,7 +28,7 @@ This repository manages the source code for the Ishikawa Lab. website.
 
 ## 開発環境のセットアップ
 
-1. Hugoのインストール（https://gohugo.io/）
+1. Hugoのインストール（[https://gohugo.io/](https://gohugo.io/)）
    ```bash
    # macOSの場合
    brew install hugo
