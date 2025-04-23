@@ -28,7 +28,7 @@ This repository manages the source code for the Ishikawa Lab. website.
 
 ## 開発環境のセットアップ
 
-1. Hugoのインストール(https://gohugo.io/)
+1. Hugoのインストール（https://gohugo.io/）
    ```bash
    # macOSの場合
    brew install hugo
@@ -36,8 +36,8 @@ This repository manages the source code for the Ishikawa Lab. website.
 
 2. リポジトリのクローン
    ```bash
-   git clone https://github.com/ctxzz/research-group-site.git
-   cd research-group-site
+   git clone https://github.com/iskw-Lab/iskw-lab.github.io.git
+   cd iskw-lab.github.io
    ```
 
 3. 依存関係のインストール
@@ -65,7 +65,7 @@ This repository manages the source code for the Ishikawa Lab. website.
 1. **リポジトリの準備**
    - 初めての場合：
      ```bash
-     git clone https://github.com/ctxzz/research-group-site.git
+     git clone https://github.com/iskw-Lab/iskw-lab.github.io.git
      cd research-group-site
      ```
    - すでにクローン済みの場合：
@@ -109,7 +109,7 @@ This repository manages the source code for the Ishikawa Lab. website.
    ```
 
 6. **プルリクエストの作成**
-   - GitHubで `ctxzz/research-group-site` リポジトリにアクセス
+   - GitHubで `iskw-Lab/iskw-lab.github.io` リポジトリにアクセス
    - プッシュしたブランチからプルリクエストを作成
    - プルリクエストのタイトルは `Add: 論文タイトル by 著者名` の形式で作成
    - 変更内容の説明を詳細に記入
