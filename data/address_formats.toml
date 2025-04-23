@@ -1,0 +1,22 @@
+# Address formats.
+ja = { order = [
+    'postcode',
+    'region',
+    'city',
+    'street',
+], delimiters = [
+    ' ',
+    ' ',
+    ' ',
+] }
+en = { order = [
+    'street',
+    'city',
+    'region',
+    'postcode',
+], delimiters = [
+    ', ',
+    ', ',
+    ' ',
+    '',
+] }
