@@ -23,11 +23,11 @@ content/publication/
 研究業績の登録には以下の項目が含まれます：
 
 ### 必須項目
-- 基本情報（`title`, `authors`, `date`, `publication_types`, `category_types`）
-- 概要（`abstract`）
+- 基本情報（`title`, `authors`, `date`, `publishDate`, `publication_types`, `categories`）
+- 概要（`abstract`, `summary`, `links`）
+- プロジェクト情報（`projects`）
 
 ### 任意項目
-- プロジェクト情報（`projects`）
 - タグ（`tags`）　（関連するキーワード：["Care", "DX", "Technology", "HCI"]）
 - 画像（`image`）
 - リンク（`url_pdf`, `url_code`, `url_dataset`, `url_poster`, `url_slides`, `url_video`, `url_source`）
@@ -37,9 +37,9 @@ content/publication/
 
 1. 新しい研究業績用のディレクトリを作成
    - 命名規則: `YYYYMMDD-conf-author`
-   - 例: `20240926-asd-omata`
+   - 例: `20240926-asd-atsushi-omata`
 
-2. ディレクトリ内に`_index.md`ファイルを作成し、以下のテンプレートを使用：
+2. ディレクトリ内に`index.ja.md`と`index.en.md`ファイルを作成し、以下のテンプレートを使用：
 
 ```yaml
 ---
@@ -47,11 +47,40 @@ title: "論文タイトル"
 authors: # authorsのフォルダ名と一致させる（例：atsushi-omata）
   - admin # 石川先生はadminというフォルダ名で管理されている．
   - その他の著者
-date: "2024-09-26" # 発表した日付 or 出版された日付
-publication_types: ["paper-conference"]  # 出版タイプ（↓の表参照）
-category_types: ["International Conference"]     # カテゴリタイプ（↓の表参照）
-projects: ["プロジェクト名"] # プロジェクト名はprojectsのフォルダ名と一致させる（例：care-dx）
-tags: ["タグ1", "タグ2"]
+date: "2024-09-26T00:00:00Z" # 発表した日付 or 出版された日付
+doi: ""
+publishDate: "2024-09-26T00:00:00Z" # 発表した日付 or 出版された日付
+
+# 出版タイプ（↓の表参照）
+publication_types:
+  - paper-conference
+
+# カテゴリタイプ（↓の表参照）
+categories:
+  - Domestic Conference
+
+# Publication name and optional abbreviated publication name.
+publication: In *第xx回oo学会全国大会*
+publication_short: In *第xx回oo学会全国大会*
+
+abstract: "論文の概要"
+   
+summary: 第xx回oo学会全国大会にて発表しました．
+
+tags:
+  - タグ1
+  - タグ2
+
+feature: false
+
+links:
+- name: 第xx回oo学会全国大会
+  url: 
+
+# プロジェクト名はprojectsのフォルダ名と一致させる（例：care-dx）
+projects:
+  - プロジェクト名
+
 image:
   caption: "画像の説明"
   focal_point: "Center"
@@ -63,7 +92,6 @@ url_poster: "ポスターのURL"
 url_slides: "スライドのURL"
 url_video: "動画のURL"
 url_source: "ソースのURL"
-abstract: "論文の概要"
 note: "追加のメモ"
 ---
 ```
