@@ -66,11 +66,11 @@ This repository manages the source code for the Ishikawa Lab. website.
    - 初めての場合：
      ```bash
      git clone https://github.com/iskw-Lab/iskw-lab.github.io.git
-     cd research-group-site
+     cd iskw-lab.github.io
      ```
    - すでにクローン済みの場合：
      ```bash
-     cd research-group-site
+     cd iskw-lab.github.io
      git checkout main
      git pull origin main
      ```
@@ -84,6 +84,7 @@ This repository manages the source code for the Ishikawa Lab. website.
 3. **研究業績の追加**
    - 方法1: スクリプトを使用する場合
      ```bash
+     chmod +x scripts/create_publication.sh
      ./scripts/create_publication.sh 会議名 著者名
      # 例: ./scripts/create_publication.sh CHI atsushi-omata
      ```
