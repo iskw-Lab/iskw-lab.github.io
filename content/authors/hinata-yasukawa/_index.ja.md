@@ -25,13 +25,17 @@ organizations:
 # Short bio
 bio: ''
 
-interests: []
+interests:
+  - 👥 Human-Computer Interaction
 
 # education:
 #   courses: []
 
 # Social/Academic Networking
-social: []
+social:
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/HinataYasukawa
 
 # Email for Gravatar
 email: ''
@@ -45,3 +49,9 @@ user_groups:
   - メンバー
   - 学生
 --- 
+<!-- https://bootstrap.hugoblox.com/content/writing-markdown-latex/ -->
+
+# About Me
+
+<!-- {{< icon name="terminal" pack="fas" >}}  -->
+現在、静岡大学情報学部4年。VR空間上でAIを用いた介護訓練プログラムの構築に取り組んでいます。
