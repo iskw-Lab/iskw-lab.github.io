@@ -23,15 +23,16 @@ content/project/
 研究プロジェクトの登録には以下の項目が含まれます：
 
 ### 必須項目
-- 基本情報（`title`, `summary`, `tags`）
-- プロジェクト概要（`abstract`）
-- プロジェクト期間（`date_start`, `date_end`）
+- プロジェクト名（`title`）
+- プロジェクトの概要（`summary`）
+- プロジェクトの開始日（`date`）
+- タグ（`tags`）
+- プロジェクトメンバー（`authors`）
+- 画像（`image`）
 
 ### 任意項目
 - 画像（`image`）
 - 外部リンク（`external_link`）
-- メンバー（`people`）
-- 関連する研究業績（`publications`）
 
 ## ファイルの作成方法
 
@@ -39,7 +40,7 @@ content/project/
    - 命名規則: プロジェクト名をハイフンで区切る
    - 例: `care-dx`, `llm-self-care`
 
-2. ディレクトリ内に`_index.md`ファイルを作成し、以下のテンプレートを使用：
+2. ディレクトリ内に`index.ja.md`と`index.en.md`ファイルを作成し、以下のテンプレートを使用：
 
 ```yaml
 ---
@@ -47,11 +48,10 @@ title: "プロジェクトタイトル"
 summary: "プロジェクトの簡単な説明"
 date: "2024-01-01"
 image:
-  caption: "画像の説明"
-  focal_point: "Center"
+  filename: image.png
+  focal_point: Smart
   preview_only: false
-external_link: "プロジェクトの外部リンク"
-people:
+authors:
   - メンバー
 tags: ["タグ1", "タグ2"]  # 関連するキーワード：["Care", "DX", "Technology", "HCI"]
 ---
