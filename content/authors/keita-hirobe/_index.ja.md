@@ -25,10 +25,15 @@ organizations:
 # Short bio
 bio: ''
 
-interests: []
+interests: 
+  - 👥 Human-Computer Interaction
 
-# education:
-#   courses: []
+
+education:
+  courses: 
+    - course: 学士（情報学）
+      institution: 静岡大学
+      year: 2025
 
 # Social/Academic Networking
 social: []
@@ -45,3 +50,10 @@ user_groups:
   - メンバー
   - 学生
 --- 
+<!-- https://bootstrap.hugoblox.com/content/writing-markdown-latex/ -->
+
+# About Me
+
+<!-- {{< icon name="terminal" pack="fas" >}}  -->
+現在、静岡大学大学院総合科学技術研究科修士１年。
+研究テーマは、VR技術を活用した患者体験の拡張です。認知症理解向上に役立たせるため、当事者との共創により、多様な認知症症状を体験可能なVR空間の構築に取り組んでいます。
