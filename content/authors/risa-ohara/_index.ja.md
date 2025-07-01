@@ -25,10 +25,15 @@ organizations:
 # Short bio
 bio: ''
 
-interests: []
+interests: 
+  - Self Care
+  - Human Interface
 
-# education:
-#   courses: []
+education:
+  courses: 
+    - course: 学士（情報学）
+      institution: 静岡大学
+      year: 2025
 
 # Social/Academic Networking
 social: []
@@ -44,4 +49,12 @@ user_groups:
   - 修士課程
   - メンバー
   - 学生
+
 --- 
+<!-- https://bootstrap.hugoblox.com/content/writing-markdown-latex/ -->
+
+# About Me
+
+<!-- {{< icon name="terminal" pack="fas" >}}  -->
+現在、総合科学技術研究科情報学専攻1年。
+モヤモヤした悩みを抱える人の支援に関心を持ち、どうすればより良いサポートができるかを探求しています。

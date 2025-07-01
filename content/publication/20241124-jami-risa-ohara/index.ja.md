@@ -41,7 +41,7 @@ links:
 - name: 第44回医療情報学連合大会（第25回日本医療情報学会学術大会）
   url: https://jcmi44.org/index.html
 
-url_pdf: 'https://confit.atlas.jp/guide/event-img/jcmi2024/4-J-1-06/public/pdf?type=in'
+url_pdf: 'https://confit.atlas.jp/guide/event/jcmi2024/subject/4-J-1-06/classlist'
 url_code: ''
 url_dataset: ''
 url_poster: ''

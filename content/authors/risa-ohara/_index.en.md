@@ -25,10 +25,15 @@ organizations:
 # Short bio
 bio: ''
 
-interests: []
+interests: 
+  - Self Care
+  - Human Interface
 
-# education:
-#   courses: []
+education:
+  courses: 
+    - course: B.S. in Informatics
+      institution: Shizuoka University
+      year: 2025
 
 # Social/Academic Networking
 social: []
@@ -44,4 +49,10 @@ user_groups:
   - Master's Students
   - Members
   - Students
---- 
+
+---
+
+# About Me
+
+Risa Ohara (大原 理沙 in Japanese) is currently a first-year student in the Department of Informatics at the Graduate School of Integrated Science and Technology.
+I am interested in supporting people who are struggling with unclear worries and exploring ways to provide better assistance.
