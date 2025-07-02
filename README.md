@@ -76,11 +76,15 @@ This repository manages the source code for the Ishikawa Lab. website.
      ```
 
 2. **新しいブランチの作成**
-   - 作業用のブランチを作成します(例: `add-publication-論文タイトル`)
+   - 作業用のブランチを作成します(例: `add-publication-ishikawa`のように、作業内容と作業者名を組み合わせる形で命名)
    ```bash
-   git checkout -b add-publication-論文タイトル
+   git checkout -b add-publication-作業者名
    ```
-
+   - 例：
+   ```bash
+   git checkout -b add-publication-ishikawa
+   ```
+   
 3. **研究業績の追加**
    - 方法1: スクリプトを使用する場合
      ```bash
@@ -106,21 +110,30 @@ This repository manages the source code for the Ishikawa Lab. website.
    ```bash
    git add .
    git commit -m "Add: 論文タイトル by 著者名"
-   git push origin add-publication-論文タイトル
+   git push origin add-publication-作業者名
    ```
+   `git push origin add-publication-作業者名` では、2.で作成したブランチ名と合わせる
 
 6. **プルリクエストの作成**
    - GitHubで `iskw-Lab/iskw-lab.github.io` リポジトリにアクセス
    - プッシュしたブランチからプルリクエストを作成
    - プルリクエストのタイトルは `Add: 論文タイトル by 著者名` の形式で作成
-   - 変更内容の説明を詳細に記入
+   - 変更内容の説明を詳細に記入（なくてもいい）
 
 7. **レビューとマージ**
    - 教員がプルリクエストをレビュー
    - 必要に応じて修正を依頼
    - 問題がなければマージ
-
-8. **ローカルリポジトリの更新**
+  
+8. プルリクエストからブランチを削除
+   - プルリクエストがマージされたら、不要となった作業ブランチを削除する
+   - GitHubの[プルリクエスト画面](https://github.com/iskw-Lab/iskw-lab.github.io/pulls)から自分のプルリクエストに移動し、チャットの下の方にある「Delete branch」ボタンから削除可能です。
+   - ローカルのブランチも以下のコマンドで削除してください。
+   ```bash
+   git branch -d add-publication-作業者名
+   ```
+   
+9. **ローカルリポジトリの更新**
    - プルリクエストがマージされたら、ローカルリポジトリを更新
    ```bash
    git checkout main
