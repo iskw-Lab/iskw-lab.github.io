@@ -15,9 +15,9 @@ sections:
         postcode: '432-8011' # Adjust if needed
         country: Japan
         country_code: JP
-      coordinates: # Add coordinates if needed for map display
-        latitude: '34.7263056'
-        longitude: '137.7180755'
+      # coordinates: # Add coordinates if needed for map display
+      #   latitude: '34.7263056'
+      #   longitude: '137.7180755'
       directions: Our lab is located on the 3rd floor of Faculty of Informatics Building 2. # Add directions if needed
       # office_hours: # Add office hours if needed
       #   - 'Monday 10:00 to 13:00'
