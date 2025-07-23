@@ -100,7 +100,7 @@ features:
       index_name: ""
       show_logo: false
   map:
-    provider: "mapnik"
+    provider: ""
     api_key: ""
     zoom: 15
 

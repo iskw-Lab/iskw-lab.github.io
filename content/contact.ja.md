@@ -15,9 +15,9 @@ sections:
         postcode: '432-8011' # Adjust if needed
         country: 日本
         country_code: JP
-      coordinates: # Add coordinates if needed for map display
-        latitude: '34.7263056'
-        longitude: '137.7180755'
+      # coordinates: # Add coordinates if needed for map display
+      #   latitude: '34.7263056'
+      #   longitude: '137.7180755'
       directions: 研究室は浜松キャンパス情報学部2号館3階にあります。 # Add directions if needed
       # office_hours: # Add office hours if needed
       #   - '月曜日 10:00 から 13:00'
