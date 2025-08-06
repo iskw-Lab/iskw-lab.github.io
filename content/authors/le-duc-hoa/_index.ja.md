@@ -19,7 +19,7 @@ weight: 1
 
 # Organizations/Affiliations
 organizations:
-  - name: Shizuoka University
+  - name: 静岡大学
     url: ''
 
 # Short bio
