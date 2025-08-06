@@ -7,4 +7,5 @@ public/
 assets/jsconfig.json
 .hugo_build.lock
 
-.DS_Store
+.DS_Storehugo.tar.gz
+LICENSE
