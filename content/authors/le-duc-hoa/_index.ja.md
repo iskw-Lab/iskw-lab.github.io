@@ -15,11 +15,11 @@ role: 学士（B3）
 # D: 10, 9, 8, 7
 # M: 6, 5, 4
 # B: 3, 2, 1
-weight: 3
+weight: 1
 
 # Organizations/Affiliations
 organizations:
-  - name: Shizuoka University
+  - name: 静岡大学
     url: ''
 
 # Short bio
