@@ -22,15 +22,7 @@ publication_short: In *JCSS 2025*
 
 abstract: |
   <a href="https://jcss2025.jcss.gr.jp/schedule/#program-OS3-4">OS3-4: New Approaches to Cognitive Research through Narrative</a> \
-  Organizers: Tomofumi Nishida (NICT), Towa Suda (Nagoya University), Yuka Taketomi (ZEN University), Yuki Kobayashi (NICT)
-  - Exploring Phenomenal Consciousness Based on Narrative \
-   Tomofumi Nishida (NICT)
-  - Exploring the Dynamics of Cognition and Narrative through Analysis and Synthesis \
-   Shogo Ishikawa (Shizuoka University)
-  - What Does Narrative 'Change'? The Need for a Multi-faceted Approach to Narrative Persuasion Considering the Target \
-   Megumi Komori (Tokyo Woman's Christian University)
-  - Cognition and Narrative: A Narratological Perspective \
-   Towa Suda (Nagoya University), Yuka Taketomi (ZEN University)
+  Organizers: Satoshi Nishida (NICT), Towa Suda (Nagoya University), Yuka Taketomi (ZEN University), Yuki Kobayashi (NICT)
 
 summary: We gave an invited talk at The 42nd Annual Conference of the Japanese Cognitive Science Society.
 
