@@ -20,7 +20,18 @@ categories:
 publication: In *The 42nd Annual Conference of the Japanese Cognitive Science Society*
 publication_short: In *JCSS 2025*
 
-abstract: "This invited talk explores the dynamic interactions between cognitive processes and narrative through both analytical and synthetic approaches in cognitive science. We examine the complex relationships between cognition and narrative from multiple perspectives, discussing how the dynamics of both influence human understanding and behavior."
+abstract: "Organized Session (OS3-4): New Approaches to Cognitive Research through Narrative
+
+Organizers: Tomofumi Nishida (NICT), Towa Suda (Nagoya University), Yuka Taketomi (ZEN University), Yuki Kobayashi (NICT)
+
+OS3-4-1 | Exploring Phenomenal Consciousness Based on Narrative
+  | Tomofumi Nishida (NICT)
+OS3-4-2 | Exploring the Dynamics of Cognition and Narrative through Analysis and Synthesis
+  | Shogo Ishikawa (Shizuoka University)
+OS3-4-3 | What Does Narrative 'Change'? The Need for a Multi-faceted Approach to Narrative Persuasion Considering the Target
+  | Megumi Komori (Tokyo Woman's Christian University)
+OS3-4-4 | Cognition and Narrative: A Narratological Perspective
+  | Towa Suda (Nagoya University), Yuka Taketomi (ZEN University)"
 
 summary: We gave an invited talk at The 42nd Annual Conference of the Japanese Cognitive Science Society.
 
@@ -42,8 +53,6 @@ featured: false
 links:
 - name: The 42nd Annual Conference of the Japanese Cognitive Science Society
   url: https://www.jcss.gr.jp/meetings/jcss2025/
-- name: Presentation Abstract
-  url: https://jcss2025.jcss.gr.jp/schedule/#program-OS3-4
 
 image:
   caption: ""
