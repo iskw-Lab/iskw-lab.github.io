@@ -11,6 +11,7 @@ sections:
          - 職員
          - 学生
         #  - 研究員
+         - 社会人学生
          - 卒業生
       sort_by: 'Params.weight' # Or 'Rank' etc.
       sort_ascending: false
