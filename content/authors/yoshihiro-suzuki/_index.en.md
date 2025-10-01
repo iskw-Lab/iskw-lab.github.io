@@ -15,7 +15,7 @@ role: Part-time PhD Student (D1)
 # D: 10, 9, 8, 7
 # M: 6, 5, 4
 # B: 3, 2, 1
-weight: 11 # 社会人博士は 11-14 を使用する
+weight: 11 # Part-time PhD students use weights 11-14
 
 # Organizations/Affiliations
 organizations:
