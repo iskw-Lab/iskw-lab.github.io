@@ -1,5 +1,5 @@
 ---
-title: "Development of VR Content for Patient Explanation in Full-Endoscopic Spine Surgery"
+title: "Development of VR content in patient explanation for Full-Endoscopic Spinal Surgery"
 authors:
   - aozora-shimao
   - Yuki Kase
