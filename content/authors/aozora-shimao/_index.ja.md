@@ -27,16 +27,16 @@ organizations:
 # Short bio
 bio: ''
 
-interests: []
+# interests: []
 
- education:
+education:
   courses:
-  - course: 修士（情報学）
-    institution: 静岡大学
-    year: 2024
-  - course: 学士（情報学）
-    institution: 静岡大学
-    year: 2022
+    - course: 修士（情報学）
+      institution: 静岡大学
+      year: 2024
+    - course: 学士（情報学）
+      institution: 静岡大学
+      year: 2022
 
 # Social/Academic Networking
 social: 
