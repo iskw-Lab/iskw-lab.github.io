@@ -1,5 +1,5 @@
 ---
-title: "Hallucination Modeling Method Using Generative AI in Co-creation with People with Dementia"
+title: "Co-Creating VR Simulations of Dementia-Related Hallucinations with Generative AI"
 authors:
   - keita-hirobe
   - atsushi-omata
