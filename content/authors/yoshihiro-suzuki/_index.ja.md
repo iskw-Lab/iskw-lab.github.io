@@ -19,7 +19,7 @@ weight: 11 # 社会人博士は 11-14 を使用する
 
 # Organizations/Affiliations
 organizations:
-  - name: アレグロマイクロシステムズ社
+  - name: アレグロマイクロシステムズ
     url: 'https://investors.allegromicro.com/board-member/yoshihiro-zen-suzuki/'
 
 # Short bio
