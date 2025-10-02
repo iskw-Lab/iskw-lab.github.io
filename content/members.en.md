@@ -10,7 +10,7 @@ sections:
       user_groups:
          - Staff
          - Students
-         - Part-time Students
+         - Working Students
          - Alumni
       sort_by: 'Params.weight' # Or 'Rank' etc.
       sort_ascending: false

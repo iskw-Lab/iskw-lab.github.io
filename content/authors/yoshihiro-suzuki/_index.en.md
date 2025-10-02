@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Part-time PhD Student (D1)
+role: Working PhD Student (D1)
 
 # D: 10, 9, 8, 7
 # M: 6, 5, 4
@@ -41,6 +41,6 @@ highlight_name: false
 
 # User groups
 user_groups:
-  - Part-time Students
+  - Working Students
   - Members
 ---
