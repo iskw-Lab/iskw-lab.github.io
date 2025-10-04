@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: 学術研究員
 
-weight: 10
+weight: 70
 
 # Organizations/Affiliations
 organizations:
