@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: Research Associate
 
-weight: 10
+weight: 70
 
 # Organizations/Affiliations
 organizations:
