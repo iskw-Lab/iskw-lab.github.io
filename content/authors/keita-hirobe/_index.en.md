@@ -35,7 +35,10 @@ education:
     year: 2025
 
 # Social/Academic Networking
-social: []
+social: 
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/hirobekeita
 
 # Email for Gravatar
 email: ''
