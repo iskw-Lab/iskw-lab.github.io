@@ -4,7 +4,7 @@ title: 佐藤 墾
 
 # Username (this should match the folder name)
 authors:
-  - hikaru-sato
+  - hiraku-sato
 
 # Is this the primary user of the site?
 superuser: false
