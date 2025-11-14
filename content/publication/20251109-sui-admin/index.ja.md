@@ -1,5 +1,5 @@
 ---
-title: "認知症症状の没入型シミュレーション：職業経験による共感への差異的影響"
+title: "Immersive Simulation of Dementia Symptoms: Differential Effects on Empathy by Professional Experience"
 authors:
   - admin
   - atsushi-omata
@@ -22,7 +22,7 @@ categories:
 publication: In *Proceedings of the 2025 ACM Symposium on Spatial User Interaction*
 publication_short: In *SUI '25*
 
-abstract: 本研究の目的は、認知症患者の一人称視点から認知障害をシミュレートする没入型体験が、ケア専門職と学生の共感を高めることができるかどうかを検証することであった。24名のケア専門職（初心者または中級者に分類）と67名の看護・社会福祉学生が、20分間の仮想認知症体験に参加した。共感は、介入前後に日本語版共感尺度を用いて評価された。結果として、ケア専門職は共感の有意な向上を示したが、学生は共感的関心と想像力の低下を示した。これらの異なる結果は、参加者の実践経験と没入型シナリオを文脈化する能力の影響を示唆している。初心者には構造化された振り返りと適切な指導が不可欠である可能性がある。今後の研究では、認知症ケアのための没入型共感トレーニングを最適化する上で、プログラムデザイン、リアリズム、個人差の役割を明らかにする必要がある。
+abstract: The purpose of this study was to examine whether immersive experiences simulating cognitive impairments from a dementia patient's first-person perspective could enhance empathy among care professionals and students. 24 care professionals (categorized as beginners or intermediate) and 67 nursing and social work students participated in a 20-minute virtual dementia experience. Empathy was assessed using the Japanese empathy scale before and after the intervention. Results indicated that care professionals showed a significant improvement in empathy, whereas students exhibited decreased empathic concern and imaginative engagement. These differing outcomes suggest the influence of participants' practical experiences and capacity for contextualizing immersive scenarios. Structured reflection and tailored guidance may be essential for novices. Future research should clarify the roles of program design, realism, and individual differences in optimizing immersive empathy training for dementia care.
    
 summary: 2025 ACM Symposium on Spatial User Interaction (SUI '25)にて発表しました．
 
