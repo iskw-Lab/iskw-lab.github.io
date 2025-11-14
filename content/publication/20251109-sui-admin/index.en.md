@@ -38,7 +38,7 @@ featured: false
 
 links:
 - name: SUI '25
-  url: https://dl.acm.org/doi/10.1145/3694907.3765926
+  url: https://sigchi.org/events/sui-2025/
 
 # プロジェクト名はprojectsのフォルダ名と一致させる（例：care-dx）
 projects:
