@@ -31,7 +31,10 @@ interests: []
 #   courses: []
 
 # Social/Academic Networking
-social: []
+social:
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/yuisakurasan 
 
 # Email for Gravatar
 email: ''
@@ -45,3 +48,19 @@ user_groups:
   - Students
   - Members
 --- 
+<!-- https://bootstrap.hugoblox.com/content/writing-markdown-latex/ -->
+
+# **About Me🌸**
+***
+## **Affiliation**
+<!-- {{< icon name="terminal" pack="fas" >}}  -->
+Shizuoka University, Faculty of Informatics, Department of Information Science
+
+## **Interests**
+  - AI（Artificial Intelligence）
+  - LLM（Large Language Model）
+  - DX（Digital Transformation）
+  - HCI（Human-Computer Interaction）
+
+## **Comment**
+I aim to leverage information technology to improve the challenges faced by frontline caregivers. By using IT to visualize daily care records, I strive to create systems that support the growth and well-being of those who work in this field.
