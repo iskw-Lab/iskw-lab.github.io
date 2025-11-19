@@ -11,9 +11,9 @@ authors:
   - 関 正宏
   - admin
 
-date: '2025-11-15T00:00:00Z' # 発表した日付 or 出版された日付
+date: '2024-10-19T00:00:00Z' # 発表した日付 or 出版された日付
 doi: ""
-publishDate: '2025-11-15T00:00:00Z' # 発表した日付 or 出版された日付
+publishDate: '2024-10-19T00:00:00Z' # 発表した日付 or 出版された日付
 
 # 出版タイプ（↓の表参照）
 publication_types:
@@ -25,12 +25,12 @@ categories:
   - Poster Presentation
 
 # Publication name and optional abbreviated publication name.
-publication: In みんなのケア情報学会 第8回年次大会
-publication_short: In CIHCD2025
+publication: In *みんなのケア情報学会 第７回年次大会*
+publication_short: In *CIHCD2024*
 
-abstract: 全内視鏡下脊椎手術の現場では，患者に病状・手術内容を説明する場合にCT等各種スキャンによる2次元画像を用いており，患者にとって理解が難しいことが課題となっている．本研究では岩井整形外科病院と連携し，VRによる患者説明を通して患者の不安低減や理解度の向上を目指す．VRコンテンツの開発を通して，患者体験の改善に貢献することが期待される．
+abstract: 脊椎手術の患者説明は専門性が高く、CT や MRI 等の 2 次元画像のみでは患者の理解が困難という課題がある。本発表では、岩井整形外科病院と連携して VRコンテンツによる理解度向上と、患者の不安や疑問を解消するコンテンツの構想について発表する。
    
-summary: みんなのケア情報学会第8回年次大会にて発表しました．
+summary: みんなのケア情報学会第７回年次大会にて発表しました．
 
 tags:
   - VR
@@ -40,8 +40,8 @@ tags:
 feature: false
 
 links:
-- name: みんなのケア情報学会 第8回年次大会
-  url: https://sites.google.com/cihcd.jp/cihcd2025/home?authuser=0
+- name: みんなのケア情報学会 第７回年次大会
+  url: https://sites.google.com/cihcd.jp/cihcd2024/home?authuser=0
 # プロジェクト名はprojectsのフォルダ名と一致させる（例：care-dx）
 projects:
   - metaverse-px
