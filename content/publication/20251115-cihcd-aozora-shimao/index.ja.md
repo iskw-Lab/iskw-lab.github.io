@@ -39,7 +39,7 @@ feature: false
 
 links:
 - name: みんなのケア情報学会 第8回年次大会
-  url: https://sites.google.com/cihcd.jp/cihcd2025/home?authuser=0
+  url: https://sites.google.com/view/cihcd2025
 # プロジェクト名はprojectsのフォルダ名と一致させる（例：care-dx）
 projects:
   - metaverse-px

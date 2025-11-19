@@ -2,7 +2,7 @@
 title: "Development of Patient Explanation Content for Full-Endoscopic Spine Surgery"
 authors:
   - aozora-shimao
-  - Yuki Kase
+  - Hiroki Kase
   - Kento Takebayashi
   - Hisashi Koga
   - Toru Aoki
@@ -39,7 +39,7 @@ feature: false
 
 links:
 - name: The 8th Annual Conference of Citizen Informatics for Human Cognitive Disorder
-  url: https://sites.google.com/cihcd.jp/cihcd2025/home?authuser=0
+  url: https://sites.google.com/view/cihcd2025
 # プロジェクト名はprojectsのフォルダ名と一致させる（例：care-dx）
 projects:
   - metaverse-px
