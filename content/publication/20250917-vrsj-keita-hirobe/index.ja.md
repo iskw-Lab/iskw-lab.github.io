@@ -4,7 +4,7 @@ authors:
   - keita-hirobe
   - atsushi-omata
   - 水野 拓宏
-  - 村上 祐順
+  - 村上 佑順
   - admin
 
 date: '2025-09-17T00:00:00Z' # 発表した日付 or 出版された日付
