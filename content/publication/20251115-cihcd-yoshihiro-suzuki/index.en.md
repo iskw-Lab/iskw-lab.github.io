@@ -1,5 +1,5 @@
 ---
-title: 'Visualization of Impact Investment from the Perspective of Brain Exploration'
+title: 'Visualization of Impact Investment from The Emotion Machine'
 
 authors:
   - yoshihiro-suzuki
