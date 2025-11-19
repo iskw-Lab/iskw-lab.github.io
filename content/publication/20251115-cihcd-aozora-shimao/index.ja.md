@@ -18,6 +18,7 @@ publication_types:
 # カテゴリタイプ（↓の表参照）
 categories:
   - Domestic Conference
+  - Poster Presentation
 
 # Publication name and optional abbreviated publication name.
 publication: In *みんなのケア情報学会 第8回年次大会*
