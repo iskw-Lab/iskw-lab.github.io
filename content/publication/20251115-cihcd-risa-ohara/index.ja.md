@@ -16,6 +16,7 @@ publication_types:
 
 categories:
   - Domestic Conference
+  - Poster Presentation
 
 publication: In *第8回みんなのケア情報学会*
 publication_short: In *CIHCD2025*

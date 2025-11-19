@@ -16,6 +16,7 @@ publication_types:
 
 categories:
   - Domestic Conference
+  - Poster Presentation
 
 publication: In *The 8th Annual Conference of Citizen Informatics for Human Cognitive Disorder*
 publication_short: In *CIHCD2025*
