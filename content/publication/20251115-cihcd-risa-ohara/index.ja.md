@@ -34,7 +34,7 @@ tags:
 featured: false
 
 links:
-- name: 第8回みんなのケア情報学会
+- name: みんなのケア情報学会 第8回年次大会
   url: https://sites.google.com/view/cihcd2025/
 
 url_pdf: ''
