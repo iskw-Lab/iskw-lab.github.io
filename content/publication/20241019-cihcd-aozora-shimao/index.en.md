@@ -40,7 +40,7 @@ tags:
 feature: false
 
 links:
-- name: 8th Annual Conference of Citizen Informatics for Human Cognitive Disorder
+- name: The 8th Annual Conference of Citizen Informatics for Human Cognitive Disorder
   url: https://sites.google.com/cihcd.jp/cihcd2025/home?authuser=0
 # プロジェクト名はprojectsのフォルダ名と一致させる（例：care-dx）
 projects:
