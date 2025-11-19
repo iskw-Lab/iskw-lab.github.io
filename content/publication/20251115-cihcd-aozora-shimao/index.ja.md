@@ -1,72 +1,59 @@
 ---
-title: '化学実験室内 VR コンテンツによる安全衛生ワークショップ'
-
+title: "全内視鏡下脊椎手術における患者説明コンテンツの開発"
 authors:
-  - 生源寺 類
-  - 関 正宏
   - aozora-shimao
-  - 石原 進
+  - 加瀬 裕貴
+  - 竹林 研人
+  - 古閑 比佐志
+  - 青木 徹
+  - 竹林 洋一
   - admin
 
-date: '2025-11-15T00:00:00Z'
-doi: ''
+date: '2025-11-15T00:00:00Z' # 発表した日付 or 出版された日付
+doi: ""
+publishDate: '2025-11-15T00:00:00Z' # 発表した日付 or 出版された日付
 
-publication_types: 
+# 出版タイプ（↓の表参照）
+publication_types:
   - paper-conference
 
+# カテゴリタイプ（↓の表参照）
 categories:
   - Domestic Conference
   - Poster Presentation
 
+# Publication name and optional abbreviated publication name.
 publication: In *みんなのケア情報学会 第8回年次大会*
 publication_short: In *CIHCD2025*
 
-abstract: 学生の安全衛生教育のため、静岡大学間瀬・鳴海研究室協力のもと、化学実験室の雰囲気や危険源を近距離で体験できる没入型 VR コンテンツを開発した。昨年度の客観的な映像とは異なり、化学実験室ドラフトチャンバー内部などの一人称に近い視点を取り入れ、研究室生の一員として実験を観察できるような内容にしたことで、実験のリアリティを追求した。本発表では本教材のデザインコンセプトを紹介するとともにデモを行う。
-
-# Summary. An optional shortened abstract.
+abstract: 脊椎手術の患者説明は専門性が高く、CT や MRI 等の 2 次元画像のみでは患者の理解が困難という課題がある。本発表では、岩井整形外科病院と連携して VRコンテンツによる理解度向上と、患者の不安や疑問を解消するコンテンツの構想について発表する。
+   
 summary: みんなのケア情報学会第8回年次大会にて発表しました．
 
-tags: 
+tags:
   - VR
-  - Safety Education
-  - Chemistry Lab
+  - Patient Experience
+  - Medical Visualization
 
-# Display this page in the Featured widget?
-featured: false
+feature: false
 
-# Custom links (uncomment lines below)
 links:
 - name: みんなのケア情報学会 第8回年次大会
   url: https://sites.google.com/view/cihcd2025
-
-url_pdf: 'https://sites.google.com/view/cihcd2025/interactive'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ''
-#  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
+# プロジェクト名はprojectsのフォルダ名と一致させる（例：care-dx）
 projects:
-  - vr-nursing-education
+  - metaverse-px
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-#slides: example
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_slides: ""
+url_video: ""
+url_source: ""
+note: ""
 ---
