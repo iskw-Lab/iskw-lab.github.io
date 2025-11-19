@@ -1,11 +1,13 @@
 ---
-title: 'Safety and Hygiene Workshop Using VR Content in a Chemistry Laboratory'
+title: "Development of Patient Explanation Content for Full-Endoscopic Spine Surgery"
 
 authors:
-  - Rui Shogenji
-  - Masahiro Seki
   - aozora-shimao
-  - Shin Ishihara
+  - Yuki Kase
+  - Kento Takebayashi
+  - Hisashi Koga
+  - Toru Aoki
+  - Yoichi Takebayashi
   - admin
 
 date: '2025-11-15T00:00:00Z'
@@ -21,15 +23,15 @@ categories:
 publication: In *The 8th Annual Conference of Citizen Informatics for Human Cognitive Disorder, 2025*
 publication_short: In *CIHCD2025*
 
-abstract: For student safety and hygiene education, we developed an immersive VR content that allows users to experience the atmosphere and hazards of a chemistry laboratory at close range, with the cooperation of the Mase-Narumi Laboratory at Shizuoka University. Unlike last year's objective video, we incorporated a first-person perspective, such as inside the chemistry laboratory draft chamber, and created content that allows users to observe experiments as a member of the laboratory, pursuing the realism of experiments. This presentation introduces the design concept of this educational material and provides a demonstration.
+abstract: Patient explanation in spine surgery requires high expertise, and it is difficult for patients to understand using only 2D images such as CT and MRI. In this presentation, we present the concept of content that improves understanding through VR content and addresses patients' anxieties and questions in collaboration with Iwai Orthopedic Hospital.
 
 # Summary. An optional shortened abstract.
 summary: Presentation at the 8th Annual Conference of Citizen Informatics for Human Cognitive Disorder (CIHCD) in 2025.
 
 tags: 
   - VR
-  - Safety Education
-  - Chemistry Lab
+  - Patient Experience
+  - Medical Visualization
 
 # Display this page in the Featured widget?
 featured: false
@@ -37,9 +39,9 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: The 8th Annual Conference of Citizen Informatics for Human Cognitive Disorder, 2025
-  url: https://sites.google.com/view/cihcd2025
+  url: https://sites.google.com/cihcd.jp/cihcd2025/home?authuser=0
 
-url_pdf: 'https://sites.google.com/view/cihcd2025/interactive'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -49,5 +51,5 @@ url_source: ''
 url_video: ''
 
 projects:
-  - vr-nursing-education
+  - metaverse-px
 ---
