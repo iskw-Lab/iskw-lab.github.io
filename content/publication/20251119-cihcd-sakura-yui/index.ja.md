@@ -20,12 +20,12 @@ categories:
   - Poster Presentation
 
 # Publication name and optional abbreviated publication name.
-publication: In *みんなのケア情報学会 第８回年次大会*
+publication: In *みんなのケア情報学会 第8回年次大会*
 publication_short: In *CIHCD2025*
 
 abstract: "少子高齢化に伴う介護人材不足によって,現場では人材教育に十分な時間を確保できていない.本研究では,介護者が日常業務の中でケアを客観的に振り返り,ケアの質とモチベーションを高めることのできる人材育成支援システムの設計を目的とする.LLM を用いて介護記録を ICF コードに基づき分類し,さらに被介護者の感情やパーソナル情報を多次元で抽出・可視化することで,被介護者への理解を促し,実践的なスキルの向上を支援するプロセスを提案する."
    
-summary: みんなのケア情報学会第8回年次大会にて発表しました．
+summary: みんなのケア情報学会 第8回年次大会にて発表しました．
 
 tags:
   - LLM
