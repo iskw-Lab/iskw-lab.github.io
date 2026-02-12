@@ -150,6 +150,19 @@ This repository manages the source code for the Ishikawa Lab. website.
 
 このサイトはGitHub Pagesを使用してデプロイされています。`main`ブランチへのプッシュが自動的にデプロイをトリガーします。
 
+## GitHub Agentic Workflows
+
+このリポジトリでは、GitHub Agentic Workflows (gh-aw) を使用して、イシューの自動トリアージを行っています。
+
+### Issue Triager
+
+新しいイシューが作成されると、AI エージェントが自動的に:
+- イシューの内容を分析
+- 適切なラベル（bug, enhancement, documentation, content, question など）を追加
+- 歓迎のコメントと次のステップのガイダンスを投稿
+
+詳細については、[GitHub Agentic Workflows](https://github.com/github/gh-aw) を参照してください。
+
 ## コンテンツレイアウト参考
 
 - [Hugo Bootstrap Theme](https://bootstrap.hugoblox.com/content/)
