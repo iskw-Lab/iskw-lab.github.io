@@ -71,7 +71,7 @@ Common issue types include:
 
 For a new issue about adding a publication, you might:
 - Add labels: `content`, `enhancement`
-- Comment: "Thank you for opening this issue! I understand you'd like to add a new publication to the website. Please follow the [publication addition workflow](../README.md#研究業績の追加ワークフロー) documented in the README. If you need any assistance, feel free to ask!"
+- Comment: "Thank you for opening this issue! I understand you'd like to add a new publication to the website. Please follow the [publication addition workflow](../../README.md#研究業績の追加ワークフロー) documented in the README. If you need any assistance, feel free to ask!"
 
 ## Important Notes
 
