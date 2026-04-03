@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Bachelor's Student (B3)
+role: Bachelor's Student (B4)
 
 # D: 10, 9, 8, 7
 # M: 6, 5, 4
 # B: 3, 2, 1
-weight: 1
+weight: 2
 
 # Organizations/Affiliations
 organizations:

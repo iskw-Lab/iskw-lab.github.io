@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's Student (M1)
+role: Master's Student (M2)
 
 # D: 10, 9, 8, 7
 # M: 6, 5, 4
 # B: 3, 2, 1
-weight: 4
+weight: 5
 
 # Organizations/Affiliations
 organizations:

@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士（D2）
+role: 博士（D3）
 
 # D: 10, 9, 8, 7
 # M: 6, 5, 4
 # B: 3, 2, 1
-weight: 8
+weight: 9
 
 # Organizations/Affiliations
 organizations:

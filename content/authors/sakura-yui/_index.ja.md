@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 学士（B4）
+role: 修士（M1）
 
 # D: 10, 9, 8, 7
 # M: 6, 5, 4
 # B: 3, 2, 1
-weight: 2
+weight: 4
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +44,7 @@ highlight_name: false
 
 # User groups
 user_groups:
-  - 学部生
+  - 修士課程
   - メンバー
   - 学生
 --- 

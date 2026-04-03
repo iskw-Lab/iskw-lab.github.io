@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Working PhD Student (D1)
+role: Working PhD Student (D2)
 
 # D: 10, 9, 8, 7
 # M: 6, 5, 4
 # B: 3, 2, 1
-weight: 11 # Part-time PhD students use weights 11-14
+weight: 12 # Part-time PhD students use weights 11-14
 
 # Organizations/Affiliations
 organizations:
