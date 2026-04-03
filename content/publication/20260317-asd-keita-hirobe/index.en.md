@@ -1,5 +1,5 @@
 ---
-title: "Exploring a Multi-Perspective Learning Method Using VR for Advancing Practical Knowledge in Care"
+title: "Exploring Multi-Perspective Learning Methods Using VR for Advancing Care Practice Knowledge"
 authors:
   - keita-hirobe
   - hinata-yasukawa
