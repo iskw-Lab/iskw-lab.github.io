@@ -125,8 +125,8 @@ user_groups:
    - 日本語版: `[卒業生]` のみ
    - 英語版: `[Alumni]` のみ
 
-3. **Weight の削除**:
-   - 卒業生はweight値を持たない（表示順序は卒業年などで決定）
+3. **Weight の更新**:
+   - 卒業生のweight値は卒業年の下2桁を設定する（例: 2026年卒業 → `weight: 26`）
 
 #### 実装例（学士卒業生への変更）
 
@@ -142,7 +142,7 @@ user_groups:
 
 # 変更後
 role: 2024年卒業生（学士）
-# weight: 削除
+weight: 24
 user_groups:
   - 卒業生
 ```
@@ -159,7 +159,7 @@ user_groups:
 
 # 変更後
 role: Graduates in 2024 (Bachelor's Degree)
-# weight: 削除
+weight: 24
 user_groups:
   - Alumni
 ```
