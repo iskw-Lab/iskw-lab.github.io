@@ -10,12 +10,10 @@ authors:
 superuser: false
 
 # Role/position
-role: 修士（M2）
+role: 2026年卒業生（修士）
 
-# D: 10, 9, 8, 7
-# M: 6, 5, 4
-# B: 3, 2, 1
-weight: 5
+weight: 26
+
 # Organizations/Affiliations
 organizations:
   - name: 静岡大学
@@ -40,7 +38,5 @@ highlight_name: false
 
 # User groups
 user_groups:
-  - 修士課程
-  - メンバー
-  - 学生
+  - 卒業生
 --- 

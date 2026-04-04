@@ -10,16 +10,16 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctoral Student(D2)
+role: Doctoral Student(D3)
 
 # D: 10, 9, 8, 7
 # M: 6, 5, 4
 # B: 3, 2, 1
-weight: 8
+weight: 9
 
 # Organizations/Affiliations
 organizations:
-  - name: Shizuoka University (D2)
+  - name: Shizuoka University (D3)
     url: 'https://www.shizuoka.ac.jp/'
   - name: Kyoyunomanabi.inc (CEO)
     url: 'https://kyoyunomanabi.co.jp/'

@@ -10,12 +10,9 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's Student(M2)
+role: Graduates in 2026 (Master's Degree)
 
-# D: 10, 9, 8, 7
-# M: 6, 5, 4
-# B: 3, 2, 1
-weight: 5
+weight: 26
 
 # Organizations/Affiliations
 organizations:
@@ -41,7 +38,5 @@ highlight_name: false
 
 # User groups
 user_groups:
-  - Master's Students
-  - Members
-  - Students
+  - Alumni
 --- 

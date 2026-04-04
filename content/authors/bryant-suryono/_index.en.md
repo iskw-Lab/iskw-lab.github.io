@@ -16,6 +16,7 @@ role: Graduates in 2025 (Bachelor's Degree)
 # M: 6, 5, 4
 # B: 3, 2, 1
 
+weight: 25
 
 # Organizations/Affiliations
 organizations:

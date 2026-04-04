@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 修士（M1）
+role: 修士（M2）
 
 # D: 10, 9, 8, 7
 # M: 6, 5, 4
 # B: 3, 2, 1
-weight: 4
+weight: 5
 
 # Organizations/Affiliations
 organizations:

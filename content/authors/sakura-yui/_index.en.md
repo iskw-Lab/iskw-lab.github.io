@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Bachelor's Student (B4)
+role: Master's Student (M1)
 
 # D: 10, 9, 8, 7
 # M: 6, 5, 4
 # B: 3, 2, 1
-weight: 2
+weight: 4
 
 # Organizations/Affiliations
 organizations:
@@ -44,9 +44,9 @@ highlight_name: false
 
 # User groups
 user_groups:
-  - Undergraduate Students
-  - Students
+  - Master's Students
   - Members
+  - Students
 --- 
 <!-- https://bootstrap.hugoblox.com/content/writing-markdown-latex/ -->
 
