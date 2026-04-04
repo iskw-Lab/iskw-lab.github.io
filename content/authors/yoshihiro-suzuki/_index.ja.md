@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 社会人博士（D2）
+role: 社会人博士（D1）
 
 # D: 10, 9, 8, 7
 # M: 6, 5, 4
 # B: 3, 2, 1
-weight: 12 # 社会人博士は 11-14 を使用する
+weight: 11 # 社会人博士は 11-14 を使用する
 
 # Organizations/Affiliations
 organizations:
