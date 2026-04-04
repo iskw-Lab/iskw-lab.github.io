@@ -13,6 +13,8 @@ superuser: false
 role: Graduates in 2023 (Bachelor's Degree)
 # 
 
+weight: 23
+
 # Organizations/Affiliations
 organizations:
   - name: Shizuoka University

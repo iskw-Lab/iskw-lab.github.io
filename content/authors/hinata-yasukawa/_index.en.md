@@ -12,6 +12,8 @@ superuser: false
 # Role/position
 role: Graduates in 2026 (Bachelor's Degree)
 
+weight: 26
+
 # Organizations/Affiliations
 organizations:
   - name: Shizuoka University

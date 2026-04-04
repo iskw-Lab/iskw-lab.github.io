@@ -12,6 +12,8 @@ superuser: false
 # Role/position
 role: 2026年卒業生（修士）
 
+weight: 26
+
 # Organizations/Affiliations
 organizations:
   - name: 静岡大学
