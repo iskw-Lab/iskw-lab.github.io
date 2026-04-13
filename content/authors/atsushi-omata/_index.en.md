@@ -17,7 +17,7 @@ weight: 70
 # Organizations/Affiliations
 organizations:
   - name: Hamamatsu University School of Medicine (Assistant Professor)
-    url: 'https://hama-med-nx-cec.com/'
+    url: 'https://www.hama-med.ac.jp/'
   - name: Shizuoka University (Research Associate, Ishikawa Lab)
     url: '/en'
 
@@ -49,6 +49,9 @@ social:
     link: https://www.omata.me
   - icon: graduation-cap
     icon_pack: fas
+    link: https://researchmap.jp/a_omata
+  - icon: google-scholar
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=ZNBWz98AAAAJ
   - icon: github
     icon_pack: fab

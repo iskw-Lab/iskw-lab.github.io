@@ -17,7 +17,7 @@ weight: 70
 # Organizations/Affiliations
 organizations:
   - name: 浜松医科大学（特任助教）
-    url: 'https://hama-med-nx-cec.com/'
+    url: 'https://www.hama-med.ac.jp/'
   - name: 静岡大学（石川研究室学術研究員）
     url: '/'
 
@@ -44,14 +44,14 @@ education:
 
 # Social/Academic Networking
 social: 
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/USERNAME
   - icon: link
     icon_pack: fas
     link: https://www.omata.me
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` pack
+  - icon: graduation-cap
     icon_pack: fas
+    link: https://researchmap.jp/a_omata
+  - icon: google-scholar
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=ZNBWz98AAAAJ
   - icon: github
     icon_pack: fab
