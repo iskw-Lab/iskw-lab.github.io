@@ -20,6 +20,7 @@ publication_types:
 categories:
   - Domestic Conference
   - Poster Presentation
+  - Award
 
 publication: In *2025年度人工知能学会全国大会（第39回）*
 publication_short: In *JSAI2025*
@@ -27,7 +28,7 @@ publication_short: In *JSAI2025*
 abstract: 本研究では、チャット相談における若者の感情をLLMを用いて評価し、前向きな目標や希望を見出すプロセスを分析した結果を示す。31,488件の相談記録（2,479件）を分析した結果、ポジティブ／ネガティブ感情や感情の揺らぎなどから相談者の特徴が抽出できることが示唆された。感情ラベルを特徴量としてクラスタリングした結果、4つのクラスタができ、相談の傾向が明らかになった。これらのクラスタにおける支援者の介入を感情推移パタンに基づき分析することで、相談者のやりたいことの外在化とそれを阻害するパタンを見出した。
 
 # Summary. An optional shortened abstract.
-summary: 2025年度人工知能学会全国大会（第39回）にて発表しました．
+summary: 2025年度人工知能学会全国大会（第39回）にて発表し，学生奨励賞を受賞しました．
 
 tags: 
   - LLM
@@ -73,3 +74,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
+
+本発表は，2025年度人工知能学会全国大会にて全国大会学生奨励賞を受賞しました．

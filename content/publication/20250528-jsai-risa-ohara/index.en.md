@@ -20,6 +20,7 @@ publication_types:
 categories:
   - Domestic Conference
   - Poster Presentation
+  - Award
 
 publication: In *The 39th Annual Conference of the Japanese Society for Artificial Intelligence, 2025*
 publication_short: In *JSAI2025*
@@ -27,7 +28,7 @@ publication_short: In *JSAI2025*
 abstract: This study describes the results of an analysis of the process of finding out the goals and things to do by using LLM to evaluate the emotions of young people with difficulties in their lives. The analysis of 31,488 consultation records (2,479 cases) suggests that the characteristics of the consultants can be extracted from the characteristics of positive/negative emotions and emotional fluctuation. Clustering of the emotional labels as features resulted in four clusters, and the characteristics of the consultants were clarified. By analyzing the intervention of the supporters in these clusters based on the emotional transition patterns, the externalization of what the consultants wanted to do and the patterns that inhibited the externalization of that desire were found. 
 
 # Summary. An optional shortened abstract.
-summary: Presentation at the 39th Annual Conference of Japanese Society for Artificial Intelligence (JSAI) in 2025.
+summary: Presentation at the 39th Annual Conference of Japanese Society for Artificial Intelligence (JSAI) in 2025, and received the Student Encouragement Award.
 
 tags: 
   - LLM
@@ -54,3 +55,5 @@ url_video: ''
 projects:
   - llm-self-care
 ---
+
+This presentation received the Student Encouragement Award at the 39th Annual Conference of the Japanese Society for Artificial Intelligence.

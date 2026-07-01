@@ -57,5 +57,5 @@ user_groups:
 # About Me
 
 <!-- {{< icon name="terminal" pack="fas" >}}  -->
-Keita Hirobe (廣部 敬太 in Japanese) is currently a first-year master's student at Shizuoka University's Graduate School of Integrated Science and Technology.
+Keita Hirobe (廣部 敬太 in Japanese) is currently a second-year master's student at Shizuoka University's Graduate School of Integrated Science and Technology.
 My research theme is to extend the patient experience using VR technology. To help improve understanding of dementia, I am working with patients to create a VR space in which they can experience a variety of dementia symptoms.
