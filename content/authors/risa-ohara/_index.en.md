@@ -54,5 +54,5 @@ user_groups:
 
 # About Me
 
-Risa Ohara (大原 理沙 in Japanese) is currently a first-year student in the Department of Informatics at the Graduate School of Integrated Science and Technology.
+Risa Ohara (大原 理沙 in Japanese) is currently a second-year student in the Department of Informatics at the Graduate School of Integrated Science and Technology.
 I am interested in supporting people who are struggling with unclear worries and exploring ways to provide better assistance.
