@@ -39,7 +39,7 @@ links:
 - name: 2026年度人工知能学会全国大会（第40回）
   url: https://conf.ai-gakkai.or.jp/jsai2026/
 
-url_pdf: 'https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/5Yin-A-52'
+url_pdf: 'https://doi.org/10.11517/pjsai.JSAI2026.0_5YinA52'
 url_code: ''
 url_dataset: ''
 url_poster: ''
