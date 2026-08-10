@@ -39,7 +39,7 @@ links:
 - name: The 40th Annual Conference of the Japanese Society for Artificial Intelligence, 2026
   url: https://conf.ai-gakkai.or.jp/jsai2026/
 
-url_pdf: 'https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/5Yin-A-52'
+url_pdf: 'https://doi.org/10.11517/pjsai.JSAI2026.0_5YinA52'
 url_code: ''
 url_dataset: ''
 url_poster: ''
