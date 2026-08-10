@@ -3,7 +3,7 @@ title: "被介護者状態像の多次元的理解評価のためのLLMベース
 authors:
   - sakura-yui
   - atsushi-omata
-  - 岡﨑 藍
+  - Ai Okazaki
   - admin # 石川先生はadminというフォルダ名で管理されている．
 
 date: "2025-11-15T00:00:00Z" # 発表した日付
