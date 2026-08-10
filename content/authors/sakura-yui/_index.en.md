@@ -50,17 +50,25 @@ user_groups:
 --- 
 <!-- https://bootstrap.hugoblox.com/content/writing-markdown-latex/ -->
 
-# **About Me🌸**
-***
-## **Affiliation**
-<!-- {{< icon name="terminal" pack="fas" >}}  -->
-Shizuoka University, Faculty of Informatics, Department of Information Science
+# About Me
+- **Affiliation：** Master's Student (1st year), Department of Informatics, Graduate School of Integrated Science and Technology, Shizuoka University
+- **Education：** B.S. in Information Science, Faculty of Informatics, Shizuoka University (March 2026)
+- **Hometown：** Yaizu City, Shizuoka Prefecture
 
-## **Interests**
-  - AI（Artificial Intelligence）
-  - LLM（Large Language Model）
-  - DX（Digital Transformation）
-  - HCI（Human-Computer Interaction）
+I am majoring in Information Science. I am currently engaged in research and development of a system that utilizes LLM to structure and visualize records from long-term care settings, thereby supporting the professional development of frontline staff.
 
-## **Comment**
-I aim to leverage information technology to improve the challenges faced by frontline caregivers. By using IT to visualize daily care records, I strive to create systems that support the growth and well-being of those who work in this field.
+**興味関心：** `#LLM`  `#HCI` `#Well-being` `#FrontlineSupport` `#BehaviorChange`
+
+---
+
+# Research
+**「Supporting Workforce Development Through the Structuring and Visualization of Care Records Using Large Language Models (LLMs)」**
+
+- **Research Overview:**
+  - Structuring and visualizing free-form care records using large language models (LLMs)
+  - Developing a feedback support system based on objective data
+  - Aiming to foster a shift in caregivers’ mindset, improve the quality of care, and enhance the well-being of both caregivers and care recipients through a continuous cycle of reflection
+
+- **Conference Presentations:**
+  - Poster presentation at fhe 8th Annual Conference of Citizen Informatics for Human Cognitive Disorder (November 2025)
+  - Poster presentation at the 40th Annual Conference of the Japanese Society for Artificial Intelligence (June 2026)
