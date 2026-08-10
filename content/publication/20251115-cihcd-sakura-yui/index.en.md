@@ -19,7 +19,7 @@ categories:
   - Poster Presentation
 
 # Publication name and optional abbreviated publication name.
-publication: In *みんなのケア情報学会 第8回年次大会*
+publication: In *The 8th Annual Conference of Citizen Informatics for Human Cognitive Disorder*
 publication_short: In *CIHCD2025*
 
 abstract: "Due to the shortage of care workers resulting from the declining birthrate and aging population, sufficient time cannot be secured for training personnel in the field. This study aims to design a human resource development support system that enables caregivers to objectively reflect on their care practices during daily work, thereby enhancing both the quality of care and their motivation. We propose a process that uses LLM to classify care records based on ICF codes, and further extracts and visualizes the emotions and personal information of care recipients in multiple dimensions. This promotes understanding of care recipients and supports the improvement of practical skills."
@@ -29,7 +29,7 @@ summary: Presentation at the 8th Annual Conference of Citizen Informatics for Hu
 tags:
   - LLM
   - Well-Being
-  - Nursing care
+  - Caregiving
   - Human Resource Development
 
 feature: false
