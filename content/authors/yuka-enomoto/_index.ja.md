@@ -10,9 +10,9 @@ authors:
 superuser: false
 
 # Role/position
-role: 2023年卒業生（学士）
+role: 2024年卒業生（学士）
 
-weight: 2303
+weight: 2403
 
 # Organizations/Affiliations
 organizations:
