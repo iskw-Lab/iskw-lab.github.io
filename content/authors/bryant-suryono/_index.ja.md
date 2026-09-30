@@ -16,7 +16,7 @@ role: 2025年卒業生（学士）
 # M: 6, 5, 4
 # B: 3, 2, 1
 
-weight: 25
+weight: 2509
 
 # Organizations/Affiliations
 organizations:

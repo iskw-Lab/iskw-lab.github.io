@@ -10,10 +10,10 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduates in 2023 (Bachelor's Degree)
+role: Graduates in 2024 (Bachelor's Degree)
 # 
 
-weight: 23
+weight: 2403
 
 # Organizations/Affiliations
 organizations:
