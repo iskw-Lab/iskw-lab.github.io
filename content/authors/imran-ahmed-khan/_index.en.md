@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: Graduates in 2026 (Master's Degree)
 
-weight: 2603
+weight: 2609
 
 # Organizations/Affiliations
 organizations:

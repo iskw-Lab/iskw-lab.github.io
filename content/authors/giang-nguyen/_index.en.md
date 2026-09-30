@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: Graduates in 2023 (Bachelor's Degree)
 
-weight: 2303
+weight: 2309
 
 # Organizations/Affiliations
 organizations:

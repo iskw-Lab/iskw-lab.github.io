@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: 2026年卒業生（修士）
 
-weight: 2603
+weight: 2609
 
 # Organizations/Affiliations
 organizations:
