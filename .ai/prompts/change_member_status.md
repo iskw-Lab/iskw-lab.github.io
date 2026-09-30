@@ -53,7 +53,7 @@ user_groups:
 
 # 変更後
 role: [卒業年]年卒業生（学士）
-# weight: 削除
+weight: [卒業年月YYMM]  # 例: 2026年3月卒 → 2603, 2026年9月卒 → 2609
 user_groups:
   - 卒業生
 ```
@@ -70,7 +70,7 @@ user_groups:
 
 # 変更後
 role: Graduates in [Year] (Bachelor's Degree)
-# weight: 削除
+weight: [卒業年月YYMM]  # 例: 2026年3月卒 → 2603, 2026年9月卒 → 2609
 user_groups:
   - Alumni
 ```
@@ -89,7 +89,7 @@ user_groups:
 
 # 変更後
 role: [卒業年]年卒業生（修士）
-# weight: 削除
+weight: [卒業年月YYMM]  # 例: 2026年3月卒 → 2603, 2026年9月卒 → 2609
 user_groups:
   - 卒業生
 ```
@@ -106,7 +106,7 @@ user_groups:
 
 # 変更後
 role: Graduates in [Year] (Master's Degree)
-# weight: 削除
+weight: [卒業年月YYMM]  # 例: 2026年3月卒 → 2603, 2026年9月卒 → 2609
 user_groups:
   - Alumni
 ```
@@ -125,7 +125,7 @@ user_groups:
 
 # 変更後
 role: [卒業年]年卒業生（博士）
-# weight: 削除
+weight: [卒業年月YYMM]  # 例: 2026年3月卒 → 2603, 2026年9月卒 → 2609
 user_groups:
   - 卒業生
 ```
@@ -142,7 +142,7 @@ user_groups:
 
 # 変更後
 role: Graduates in [Year] (Doctoral Degree)
-# weight: 削除
+weight: [卒業年月YYMM]  # 例: 2026年3月卒 → 2603, 2026年9月卒 → 2609
 user_groups:
   - Alumni
 ```
@@ -206,7 +206,9 @@ git --no-pager diff content/authors/[username]/
 - コメント行（`# D: 10, 9, 8, 7` など）は保持
 
 ### 4. Weight値について
-- 卒業生になる場合は必ず削除
+- 卒業生になる場合は卒業年月を `YYMM` 形式の整数で設定（例: 2026年3月卒 → `2603`、2026年9月卒 → `2609`）
+- メンバーページは weight の降順（大きいほど左）で並ぶため、同じ年でも9月卒が3月卒より左に表示される
+- 小数（例: `26.5`）は Hugo で整数に切り捨てられるため使用しない
 - 現役メンバーの場合は学年に応じた適切な値を設定（詳細は `annual_member_update.md` 参照）
 
 ## 参考情報
@@ -251,8 +253,8 @@ bryant-suryonoを卒業生にしてください
 処理内容:
 1. `content/authors/bryant-suryono/_index.ja.md` と `_index.en.md` を確認
 2. 現在の学年（B4）を確認
-3. 日本語版: role を「2025年卒業生（学士）」に変更、weight削除、user_groupsを「卒業生」に変更
-4. 英語版: role を「Graduates in 2025 (Bachelor's Degree)」に変更、weight削除、user_groupsを「Alumni」に変更
+3. 日本語版: role を「2025年卒業生（学士）」に変更、weight を `2503` に変更、user_groupsを「卒業生」に変更
+4. 英語版: role を「Graduates in 2025 (Bachelor's Degree)」に変更、weight を `2503` に変更、user_groupsを「Alumni」に変更
 5. YAML構文チェック
 6. 変更内容の確認
 

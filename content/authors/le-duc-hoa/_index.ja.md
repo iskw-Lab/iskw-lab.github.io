@@ -15,7 +15,7 @@ role: 2026年卒業生（学士）
 # D: 10, 9, 8, 7
 # M: 6, 5, 4
 # B: 3, 2, 1
-weight: 26
+weight: 2609
 
 # Organizations/Affiliations
 organizations:

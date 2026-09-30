@@ -15,7 +15,7 @@ role: Graduates in 2026 (Bachelor's Degree)
 # D: 10, 9, 8, 7
 # M: 6, 5, 4
 # B: 3, 2, 1
-weight: 26
+weight: 2609
 
 # Organizations/Affiliations
 organizations:
