@@ -42,7 +42,6 @@ links:
 # プロジェクト名はprojectsのフォルダ名と一致させる（例：care-dx）
 projects:
   - metaverse-px
-  - vr-nursing-education
 
 image:
   caption: ""
